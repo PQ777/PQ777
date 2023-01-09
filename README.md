@@ -25,13 +25,7 @@
 
 <a href="https://blog.naver.com/daze2649" target="_blank"><img src="https://img.shields.io/badge/AnimeBlog-000000?style=flat-square&logo=Bloglovin&logoColor=white"/></a> <a href="https://blog.naver.com/dlsgh9230" target="_blank"><img src="https://img.shields.io/badge/CodingBlog-000000?style=flat-square&logo=dev.to&logoColor=white"/></a> <a href="https://scrawny-galley-7da.notion.site/Game-ClientProgrammer-ea81731dd780457e8146806d73478713" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a> 
 ------
-<br>
 
-💥 github Stats 💥
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PQ777&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PQ777&layout=compact&theme=tokyonight)
------
-<br>
 
 📞 E-Mail 📞
 
