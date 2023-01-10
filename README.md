@@ -4,6 +4,13 @@
 
 💡 게임  개발자로 공부중인 대학생 💡<br>
 ----------
+  <lu>
+    <li>Country -> Korea</li>
+    <li>Computer SoftwareEngineering University student</li>
+    <li>Develop(Game develop) Newbie / sprout👍</li>
+    <li>Programming language, Unity3D Engine Studying</li>
+    
+  </lu>  
 <br>
 
 ✏️ Tech Stack / Studying ✏️
@@ -25,14 +32,19 @@
 <br>
 <br>
 
-  
 
-<br>
-<b>⭐ SNS ⭐</b>
-
-<a href="https://blog.naver.com/daze2649" target="_blank"><img src="https://img.shields.io/badge/AnimeBlog-000000?style=flat-square&logo=Bloglovin&logoColor=white"/></a> <a href="https://blog.naver.com/dlsgh9230" target="_blank"><img src="https://img.shields.io/badge/CodingBlog-000000?style=flat-square&logo=dev.to&logoColor=white"/></a> <a href="https://scrawny-galley-7da.notion.site/Game-ClientProgrammer-ea81731dd780457e8146806d73478713" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a> 
 ------
 
+✒️ETC.✒️
+==========
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=daze2649)](https://solved.ac/daze2649) 
+ ![mazandi profile](http://mazandi.herokuapp.com/api?handle=daze2649&theme=dark) 
+  
+<b>⭐ SNS ⭐</b>
+
+<a href="https://blog.naver.com/daze2649" target="_blank"><img src="https://img.shields.io/badge/AnimeBlog-000000?style=flat-square&logo=Bloglovin&logoColor=white"/></a> <a href="https://blog.naver.com/dlsgh9230" target="_blank"><img src="https://img.shields.io/badge/CodingBlog-000000?style=flat-square&logo=dev.to&logoColor=white"/></a> <a href="https://scrawny-galley-7da.notion.site/Game-ClientProgrammer-ea81731dd780457e8146806d73478713" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>   
+  
 
 <b>📞 E-Mail 📞</b>
   
@@ -40,7 +52,7 @@ dlsgh9230@gmail.com
 
 dlsgh9230@naver.com
   
-
+<br>
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpq777%2F&count_bg=%2327AE86&title_bg=%235D38D9&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
 </div>
